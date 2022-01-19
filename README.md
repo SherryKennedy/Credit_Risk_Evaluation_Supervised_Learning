@@ -39,7 +39,7 @@ Fitted and scored the LogisticRegression and RandomForestClassifier models on th
 ## Scaled Results
 
 ![Scaled Confusion Matrix: Logistic Regression](Images/ConfusionMatrixLogisticRegression.jpg)
-![Scaled Confusion Matrix: Random Forest Classifier](Images/ConsfusionMatrixRandomForest.jpg)
+![Scaled Confusion Matrix: Random Forest Classifier](Images/ConfusionMatrixRandomForest.jpg)
 
 ### References
 
