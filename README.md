@@ -36,7 +36,10 @@ The data going into these models was never scaled, an important step in preproce
 
 Fitted and scored the LogisticRegression and RandomForestClassifier models on the scaled data. Checked how the model scores compared to each other, and to the previous results on unscaled data. Checked how this compared to the prediction. Wrote down the results and thoughts.
 
+## Scaled Results
 
+![Scaled Confusion Matrix: Logistic Regression](Images/ConfusionMatrixLogisticRegression.jpg)
+![Scaled Confusion Matrix: Random Forest Classifier](Images/ConsfusionMatrixRandomForest.jpg)
 
 ### References
 
@@ -44,4 +47,4 @@ LendingClub (2019-2020) _Loan Stats_. Retrieved from: [https://resources.lending
 
 - - -
 
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2021 SherryKennedy. All Rights Reserved.
